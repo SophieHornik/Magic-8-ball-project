@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: #c3d3e6;
+    text-align: var(--bs-body-text-align);
+    background-color: #3f05df;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.btn-success{
+    background-color: #636bdf;
+}
+.btn-success:link{
+    background-color: #636bdf;
+}
+.btn-success:visited{
+    background-color: #636bdf;
+}
+.btn-success:hover{
+    background-color: #3e4af0;
+}
+.btn-success:active{
+    background-color: #3e4af0;
+}
